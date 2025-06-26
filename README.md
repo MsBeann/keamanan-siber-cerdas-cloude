@@ -14,7 +14,7 @@ Program ini mengintegrasikan **Keamanan Siber**, **Cloud (AWS)**, dan **Kecerdas
 - `00-roadmap/` → Kurikulum mingguan dan panduan belajar
 - `01-materi/` → Catatan belajar, ringkasan konsep, referensi, dan cheat sheet
 - `02-praktik-mingguan/` → Tugas dan latihan coding, simulasi, dan lab praktikum
-- `03-proyek-capstone/` → Dokumentasi proyek akhir tiap semester atau modul besar
+- `03-proyek/` → Dokumentasi proyek akhir tiap semester atau modul besar
 - `04-portofolio/` → Dokumentasi personal tiap peserta, pencapaian, dan sertifikasi
 - `05-sandbox/` → Area eksperimen bebas, ide liar, dan proyek sampingan
 
