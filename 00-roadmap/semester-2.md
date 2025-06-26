@@ -1,4 +1,4 @@
-# Roadmap Pembelajaran PS KSCC – Semester 2 (Minggu 25–48)
+# Roadmap Pembelajaran KSCC (Minggu 25–48)
 
 **Fokus Utama Semester 2:**  
 Mendalami keamanan aplikasi, automasi keamanan, infrastruktur cloud lanjutan, dan integrasi AI/ML ke sistem keamanan.
